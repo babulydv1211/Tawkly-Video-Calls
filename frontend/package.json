@@ -20,6 +20,7 @@
     "react-router": "^7.6.0",
     "stream-chat": "^9.3.0",
     "stream-chat-react": "^13.0.5",
+    "tawkly": "file:..",
     "zustand": "^5.0.5"
   },
   "devDependencies": {
