@@ -29,27 +29,8 @@ A **feature-rich fullstack** application designed for **real-time messaging, gro
 - **Backend**: Express.js, MongoDB, JWT  
 - **Real-time Infra**: [Stream Chat API](https://getstream.io/chat/)
 
----
 
-## 📁 Project Structure
 
-```
-tawkly/
-│
-├── backend/
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   └── server.js
-│
-└── frontend/
-    ├── components/
-    ├── pages/
-    ├── context/
-    └── main.jsx
-```
-
----
 
 ## 🔐 Environment Setup
 
@@ -104,7 +85,7 @@ npm run dev
 This app can be easily deployed on:
 
 - Vercel
--   
+  
 
 ---
 
