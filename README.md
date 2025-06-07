@@ -84,7 +84,7 @@ npm run dev
 
 This app can be easily deployed on:
 
-- Vercel
+- render.com
   
 
 ---
