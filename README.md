@@ -2,8 +2,9 @@
 # 🌟 TAWKLY – Fullstack Chat & Video Calling App 🌟
 
 A **feature-rich fullstack** application designed for **real-time messaging, group and 1-on-1 video calls**, built with modern technologies.
+![Image Jun](https://github.com/user-attachments/assets/61afdf5e-e6df-4a36-82c7-e4019f4dca1b)
 
-![Tawkly Preview](./assets/tawkly-banner.png)
+
 
 ---
 
