@@ -103,8 +103,8 @@ npm run dev
 
 This app can be easily deployed on:
 
-- **Vercel / Netlify** for Frontend  
-- **Render / Railway / Cyclic / GCP** for Backend  
+- Vercel
+-   
 
 ---
 
@@ -115,15 +115,7 @@ This app can be easily deployed on:
 - Profile management  
 - Light/Dark Themes  
 
----
 
-## 🙌 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
----
-
-## 📜 License
-
-[MIT](LICENSE)
 
