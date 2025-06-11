@@ -40,7 +40,7 @@ const handleSubmit = (e) =>{
 
 //random genetrate profile pic avatar
  const handleRandomAvatar =()=>{
-    const idx = Math.floor(Math.random() *800) + 1 ; //1-100 include
+    const idx = Math.floor(Math.random() *100) + 1 ; //1-100 include
     const randomAvatar =`https://avatar.iran.liara.run/public/${idx}.png`;
     setFormState({...formState,profilePic:randomAvatar});
     toast.success("Random profile picture generated!")
